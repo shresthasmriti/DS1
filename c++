@@ -78,7 +78,7 @@ void freq(ifstream &muwords)
     {
         cout << " " << endl;
 
-        cout << (i + 1) << ": " << fused[i] << " Word= " << Tenwords[i] << endl;
+        cout << (i + 1) << ": " << fused[i] << "most frequent word= " << Tenwords[i] << endl;
 
     }
 }
